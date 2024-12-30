@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "6675905ecb0dded448a58bb0"
+  },
+  "name": "Gucci Flora Gorgeous Magnolia",
+  "image": "sp1.jpg",
+  "price": 5050000,
+  "description": "Hương đầu: Quả mâm xôi, Dừa\n\nHương giữa: Hoa mộc lan, Hoa nhài, Xô thơm\n\nHương cuối: Xạ hương, Hoắc hương, Hương gỗ\n\n \nGucci thực sự là một nhà hương biết cách yêu chiều khứu giác của phái đẹp khi liên tục cho ra những ấn phẩm từ nhóm Hương hoa. Nếu người chị cả Gorgeous Gardenia yêu kiều, Gorgeous Jasmine tươi trẻ, thì Gucci Flora Gorgeous Magnolia lại là một phiên bản bí ẩn, đằm thắm hơn cả.\n \nNói riêng về Hoa mộc lan, đây là thứ hoa \"khó chiều\" trong giới hương bởi không phải ai cũng có thể chế tác mùi hương này cho tròn trịa. Vốn dĩ Mộc lan có cho mình một nét hương nồng nàn, đượm một chút đăng đắng rất đặc trưng, và ấn tượng để lại trong ta ấy là sự cá tính.\n \nDưới bàn tay ma thuật của nhà Gucci, Hoa mộc lan trong Gucci Flora Gorgeous Magnolia vẫn giữ được nét độc đáo như vậy, nhưng lần này lại nhu mì và \"hiền\" hơn đôi chút dưới cách tác hợp của Dừa ngọt béo và Hoa nhài quyến rũ. Chút Mâm xôi được thêm vào như một nét chấm phá, khiến tổng thể Gorgeous Magnolia có phần mọng nước và \"ranh mãnh\" hơn.",
+  "rating": 4.5,
+  "categoryId": "669a978e6e282b058a8e3f2c",
+  "size": "100ml"
+},
+{
+  "_id": {
+    "$oid": "6675906ecb0dded448a58bb1"
+  },
+  "name": "Scandal Absolu Pour Femme",
+  "image": "sp2.jpg",
+  "price": 4850000,
+  "description": "Hương đầu: Hoa huệ\nHương giữa: Quả sung\nHương cuối: Gỗ đàn hương\n \nJean Paul Gaultier chưa bao giờ làm cộng đồng mùi hương hết bất ngờ này đến bất ngờ khác, và 2024 này có lẽ là năm bùng nổ khi hãng cho \"comeback\" cặp đôi Scandal nam và nữ, và trong bài viết này, Scandal Absolu Pour Femme chính là điểm nhấn.\n \nVẫn giữ cái phong thái đỏng đảnh và quyến rũ thường lệ, thế nhưng Scandal Absolu Pour Femme lại rực rỡ và tỏa sáng hơn nhiều khi lựa Quả sung vào bổ trợ cho Hoa huệ. Huệ nồng nàn, xanh ngát, được bù thêm bởi một chút ngọt sữa từ Sung, tạo nên hợp hương ngọt ngào đủ đầy từ cả Hoa và Trái.\n \nKhông như những cô nàng Scandal trước - tạo ngọt bằng nốt hương như Caramel hay Vanilla, mà lại lựa chọn Gỗ đàn hương với vị ngọt ấm và có phần đĩnh đạc hơn. Có thể nói, đây là phiên bản đã \"trưởng thành\" so với Scandal bản gốc, dù đã bớt đi nét hoang dại thế nhưng phong cách cá tính và \"chịu chơi\" vẫn không hề suy suyển.",
+  "rating": 4.5,
+  "categoryId": "669a970b6e282b058a8e3f27",
+  "size": "80ml"
+},
+{
+  "_id": {
+    "$oid": "6675907ecb0dded448a58bb2"
+  },
+  "name": "Versace Eros Eau De Parfum",
+  "image": "sp3.jpg",
+  "price": 3480000,
+  "description": "Hương đầu: Bạc hà, Kẹo táo, Cam, Chanh, Quýt\nHương giữa: Ambroxan, Xô thơm, Phong lữ\nHương cuối: Vanilla, Da thuộc, Đàn hương, Vỏ cam, Tuyết tùng, Hoắc hương\n\nNếu bạn đã quen nhìn Versace Eros như một gã trai năng động, trẻ trung, thì giờ đây Versace Eros EDP sẽ xuất hiện như một người đàn ông đã từng trải, vương vấn ít nhiều bụi trần trong ánh nhìn. Một sự thật rằng gã trai này vốn dĩ đã rất hoang dại, nay lại càng thêm lôi cuốn bởi vẻ bụi bặm, phong trần của hắn ta.\n\nGiữ nguyên vẹn vẻ đẹp tráng kiệt khó lẫn vào đâu được với nốt hương thanh mát của Bạc hà, Versace Eros EDP còn chủ ý nhấn nhá nét lãng du với mùi hương quen thuộc của nhà Chanh cam. Cứ như ta vừa lướt mắt qua một ánh nhìn sắc sảo nhưng không kém phần tinh tế, Versace Eros EDP hẳn nhiên rất biết cách lấy lòng người.\n\nNhưng ấy là câu chuyện của những nốt hương dạo đầu, tầng hương giữa đây mới chính là lúc Versace Eros càn quét mọi thứ. Ấy là khi Xô thơm đột nhiên xuất hiện, khoác lên cho gã biết bao nhiêu vẻ bất cần đầy nam tính, một khí chất dễ dàng khiến ta mụ mị đi vì mê mẩn. Sự gọi mời được đẩy lên cao độ khi được kết hợp với nốt hương của Hoa phong lữ, kiến tạo nên một tổng thể mùi hương phiêu bồng, tuyệt nhiên kỳ diệu. Đừng cố né tránh ánh nhìn của Versace Eros EDP, vì cuối cùng bạn cũng sẽ quấn quýt lấy cái vẻ ngọt ngào đến táo tợn của Vanilla quyện cùng Da thuộc, dù muốn dù không, tôi cũng phải cảnh báo trước đây là một hợp chất “gây nghiện\" đấy.",
+  "rating": 4.5,
+  "categoryId": "669a97426e282b058a8e3f28",
+  "size": "200ml"
+},
+{
+  "_id": {
+    "$oid": "6675908ecb0dded448a58bb3"
+  },
+  "name": "Ralph Lauren Ralph's Club Elixir",
+  "image": "sp5.jpg",
+  "price": 4246000,
+  "description": "Hương đầu: Bạch đậu khấu, Bưởi, Quýt\nHương giữa: Rễ cây diên vĩ, Oải hương, Xô thơm, Phong lữ\nHương cuối: Da thuộc, Olibanum, Lãnh sam, Hoắc hương\n \nNếu bạn đã quen với cái lịch thiệp, tinh tế của Ralph Lauren Ralph's Club với những Oải hương đượm thảo mộc và Gỗ sạch sẽ, thì Ralph Lauren Ralph's Club Elixir sẽ là một hình tượng bạo dạn và cởi mở hơn rất nhiều. Như mọi người vẫn thường hay ví von rằng, Ralph's Club dành cho những ngày sơ vin chỉn chủ, thì Ralph's Club Elixir dành cho những đêm tiệc sau giờ làm, cùng với nhạc nhẹ và chút rượu Vang để nhâm nhi.\n \nNhững giây phút đầu tiên đầy phấn khích với Bưởi và Quýt căng mọng, hệt như khi buổi tiệc chỉ vừa bắt đầu. Để rồi sau đó \"mở đường\" cho Xô thơm và Phong lữ - bộ đôi classic trong làng nước hoa nam. Có thể nói, bộ đôi này không làm ta thất vọng trong việc kiến tạo nên hình tượng gã trai phong trần nhưng tử tế cùng một lúc.\n \nTầng hương cuối là khi Ralph's Club Elixir khẳng định vị thế của mình, với những Da thuộc ngọt khô, dày dặn, chút hăng cay của Bạch đậu khấu và Hoắc hương đượm hơi xanh và một chút đất. Tất cả những yếu tố ấy hòa quyện, vẽ nên Ralph Lauren Ralph's Club Elixir cuốn hút trên mọi góc nhìn.",
+  "rating": 4.5,
+  "categoryId": "669a97596e282b058a8e3f29",
+  "size": "75ml"
+},
+{
+  "_id": {
+    "$oid": "6675909ecb0dded448a58bb4"
+  },
+  "name": "Narciso Eau de Parfum Cristal",
+  "image": "sp6.jpg",
+  "price": 3460000,
+  "description": "Hương đầu: Hoa lan Nam Phi, Hoa cam, Cam bergamot\nHương giữa: Xạ hương, Hoa trắng, Hoa hồng, Hoa nhài\nHương cuối: Len cashmere, Gỗ tuyết tùng, Hổ phách, Benzoin\n\nNarciso Eau de Parfum Cristal \btừ giây phút đầu tiên tiếp xúc đã gây ấn tượng với người dùng về sự phức tạp trong mùi hương. Lớp hương này chồng lên lớp hương kia, loài hoa này đan xen với loài hoa kia. Cảm giác bối rối là dễ hiểu, và sự băn khoăn không biết phải miêu tả hương thơm này như thế này, cũng là dễ hiểu nốt. Để ví von cho nhanh thì chỉ có thể nói Cristal là một khu vườn um tùm hoa lá, thoạt nhiên không thể đếm hết các màu sắc hiện hữu trong không gian, nhưng chính vì thế mà chúng trở nên thật đặc biệt và đẹp đẽ.\n\nTôi cũng không muốn bóc tách từng hương hoa một, ngộ nhỡ làm mất đi vẻ đặc sắc vốn có của Cristal. Mà tôi chỉ biết nói rằng âm hưởng của các nét hương Hoa có trầm có bổng, có thanh có đậm. Những khi hương thơm có phần sắc lại, đanh và nồng nàn, bạn có thể nói rằng khi ấy có sự xuất hiện của Hoa nhài, hoa lan Nam Phi và Hoa cam. Và khi hương thơm mềm mại lại và miên man hơn, khi ấy hẳn Hoa hồng và Xạ hương đã tự mình kết hợp và ngát hương.\n\nKhu vườn mà Cristal tạo nên cũng không thiếu những khía cạnh khô hăng của Gỗ tuyết tùng, và cũng không thiếu nét hương man mát, the cay của Cam bergamot. Cứ như vậy, tất cả những nét vị ấy trộn lẫn vào nhau, ăn nhập và hoà quyện ăn ý.",
+  "rating": 4.5,
+  "categoryId": "669a977c6e282b058a8e3f2b",
+  "size": "90ml"
+},
+{
+  "_id": {
+    "$oid": "667590aecb0dded448a58bb5"
+  },
+  "name": "Burberry Hero Eau de Parfum",
+  "image": "sp7.jpg",
+  "price": 3790000,
+  "description": "Hương đầu: Lá thông, Olibanum\nHương giữa: Benzoin, Hương nhang\nHương cuối: Tuyết tùng Atlas, Tuyết tùng Himalaya, Tuyết tùng Virginia\n\nBurberry Hero Eau de Parfum mở ra cho ta khung cảnh của rừng thông Virginia, được thêm thắt bởi chi tiết của những đốm lửa trại và một chút gió thu len lỏi. Thế đó, dù mang cái tên Hero, nhưng Burberry Hero Eau de Parfum lại không hề mang cái vibe \"vĩ đại\" hay quá hoành tráng, mà ngược lại, ấm áp và đầy gần gũi.\n\nKhu rừng thông bắt đầu với mùi hương của Lá thông, hiển nhiên rồi, thứ hương xanh khô, hăng hắc khi vò nát ấy mới đặc trưng làm sao. Quyện thêm với Benzoin, mùi hương của nhừa nhựa của nhựa cây, đậm đà và dày dặn, làm cho tổng thể có phần tối màu hơn.\n\nTầng hương cuối được chế ngự bởi Gỗ là gỗ, Tuyết tùng với nét khô đanh đặc trưng, chầm chậm lan toả lên trên làn da, đượm lại một chút tĩnh lặng nơi khứu giác.",
+  "rating": 4.5,
+  "categoryId": "669a97706e282b058a8e3f2a",
+  "size": "150ml"
+},
+{
+  "_id": {
+    "$oid": "667590b9cb0dded448a58bb6"
+  },
+  "name": "Valentino Donna Born",
+  "image": "sp4.jpg",
+  "price": 4300000,
+  "description": "Hương đầu: Quả Kiwi, Quả Cam Brasil.\nHương giữa: Hoa nhài Ấn Độ, Hạt vông vang (Ambrette), Hoa hồng.\nHương cuối: Xạ hương trắng, Gỗ tuyết tùng.\n\nValentino Donna Born In Roma Coral Fantasy là một phiên bản tiếp nối ra mắt năm 2022 của dòng hương Valentino Donna, một dòng hương dành cho nữ giới của thương hiệu thời trang đến từ Ý. Hương thơm của Born In Roma Coral Fantasy tập trung vào khai thác và tô vẽ lên sự nữ tính nhẹ nhàng, thanh lịch.\n\nDonna Born In Roma Coral Fantasy bắt đầu với cái tươi thanh căng mọng kèm một chút ngọt cùng mùi chua dịu đặc trưng của Kiwi. Đủ hào hứng và trẻ trung cho một khởi đầu nhiều năng lượng, Coral Fantasy dần đưa ta vào phần lõi của hương thơm, một đám mây hương thơm hiền lành được hòa trộn từ Nhài thơm dịu dịu, cùng hoa Hồng tê dịu tươi xanh. Khối hương hoa ấy trong Donna Born In Roma Coral Fantasy phát triển theo lối nhẹ nhàng và có phần hoài cổ, tạo ra những rung động thanh lịch thân quen và dễ chịu, trên nền hương gợi cảm nữ tính của Xạ hương sạch sẽ, bông mịn.\n\nVới những sự nhẹ nhàng vốn có, ắt hẳn Donna Born In Roma Coral Fantasy thích hợp hơn cả để trở thành một hương thơm văn phòng thanh lịch cho các quý cô, hay một hương thơm đặc trưng dịu dàng không thể tách rời.",
+  "rating": 4.5,
+  "categoryId": "66758da7cb0dded448a58ba7",
+  "size": "200ml"
+},
+{
+  "_id": {
+    "$oid": "667590c4cb0dded448a58bb7"
+  },
+  "name": "Chloe Atelier des Fleurs Violette",
+  "image": "sp8.jpg",
+  "price": 8000000,
+  "description": "Hương chính: Violet (Hoa tím)\n \nNếu được chọn một hương hoa để dùng cho 4 mùa quanh năm, tôi sẽ chọn Hoa tím. Không phải những đóa hồng rực rỡ, cũng không phải những chùm nhài nồng say, mà là Violet, xanh tươi đượm phấn. Chloe Atelier des Fleurs Violette thể hiện đúng cái khía cạnh tính cách của Hoa tím mà tôi luôn mê mẩn, mê đến độ nếu phải chọn một hương hoa để dùng cho suốt đời, tôi cũng sẽ mạnh dạn mà nói rằng Violette của nhà Chloe.\n \nViolette ngọt ngào dịu êm, không hề gắt gao và nghe thư thái đến lạ. Trái với các loài hoa khác chỉ chực khoe sắc, khoe hương, Hoa tím trong ấn phẩm mùi hương của Chloe chỉ có một nhiệm vụ, đó là gợi cảm giác bình yên đến người thưởng thức. Nếu bạn liên tục phải làm việc trong điều kiện căng thẳng, hay bạn đang tìm kiếm một hương hoa đơn giản không cầu kỳ, rất có thể Chloe Atelier des Fleurs Violette sẽ là người bạn đồng hành tuyệt vời đấy!",
+  "rating": 4.5,
+  "categoryId": "66758e26cb0dded448a58ba8",
+  "size": "150ml"
+},
+{
+  "_id": {
+    "$oid": "667590d0cb0dded448a58bb8"
+  },
+  "name": "Valentino Donna Born",
+  "image": "sp9.jpg",
+  "price": 4730000,
+  "description": "Hương đầu: Vanilla, Nhựa hổ phách.\nHương giữa: Hoa nhài.\nHương cuối: Nhựa hương Benzoin.\n \nTừ thành công của bộ sưu tập Born In Roma, Valentino cho ra mắt phiên bản tiếp nối của dòng hương này, nhằm đem tới cho người yêu hương những sự lựa chọn hấp dẫn mới, bằng cặp đôi Born In Roma Intense vào năm 2023.\n \nValentino Donna Born In Roma Intense là phiên bản dành cho nữ, với hương thơm thuộc nhóm hương Hoa - Phương Đông. Nữ tinh và ngọt ngào là những gì chúng ta có thể tóm gọn lại khi mô tả mùi hương này. Mở đầu với Vanilla ngọt ngậy, thơm phức như một món bánh ngọt hấp dẫn. Hoa nhài thoang thoảng, hòa lẫn vào cái không khí ngọt trải dài xuyên suốt mùi hương, như những dấn ấn rõ nét của sự nữ tính và điệu đà.\n \nDonna Born In Roma không phải là một hương thơm quá phức tạp, nhưng trọn vẹn dành cho phái đẹp. Một lựa chọn thơm có đầy đủ thứ mà mọi quý cô cần thiết để khoác lên mình mỗi ngày.",
+  "rating": 4.5,
+  "categoryId": "66758da7cb0dded448a58ba7",
+  "size": "100ml"
+},
+{
+  "_id": {
+    "$oid": "667590dccb0dded448a58bb9"
+  },
+  "name": "Scandal Absolu Pour Homme",
+  "image": "sp10.jpg",
+  "price": 4220000,
+  "description": "Hương đầu: Mận Mirabelle.\nHương giữa: Hạt dẻ.\nHương cuối: Gỗ đàn hương.\n \nĐầu năm 2024, Jean Paul Gaultier đã cho ra mắt phiên bản tiếp nối mới nhất cho dòng Scandal của mình, với cả hai phiên bản nam và nữ, mang tên Absolu. Scandal Pour Homme Absolu vẫn giữ cho mình dáng chai vuông vức mạnh mẽ của các phiên bản trước đây, với chiếc vương miện kim loại long lanh cho thêm phần điệu đà, nhưng khác ở chỗ không chỉ mỗi chiếc vương miện, mà toàn bộ chai được phủ lên một màu vàng lấp lánh.\n \nVới ngoại hình lộng lẫy đến vậy, chắc rằng hương thơm bên trong cũng không phải tầm thường? Quả thực, Jean Paul Gaultier luôn chọn cho mình một lối đi rất khác lạ trong \"đấu trường\" nước hoa nam có phần đơn giản và không quá nhiều màu sắc. Scandal Pour Homme Absolu mang trong mình một hương thơm ngọt ngào, nhưng vẫn giữ trọn vẹn trong mình phần nam tính trọn vẹn. Mận Mirabelle với hương thơm đặc trưng, phủ lên lớp hương đầu những đường nét của sự cá tính, kết hợp tròn trịa với Hạt dẻ thơm ngậy, tổng hòa lên một hương thơm gợi cảm nhưng đầm ấm và đáng tin cậy. Gỗ đàn hương đến tiếp nối, duy trì sự ngọt ngào và ngậy béo của những giây phút ban đầu, đủ quyến rũ, đủ rắn rỏi.\n \nTất nhiên, nhắc đến nước hoa của Jean Paul Gaultier, đặc biệt là dòng Scandal Pour Homme, để kiểm soát hương thơm điệu đà nhưng chẳng thiếu mạnh mẽ này luôn cần một cá tính đủ mạnh và một trái tim nồng nàn mê man với những hương thơm ngọt ngào. Đến lúc đó, Scandal Pour Homme Absolu sẽ chính là tấm áo vô hình đầy gợi cảm dành cho bạn.",
+  "rating": 4.5,
+  "categoryId": "669a970b6e282b058a8e3f27",
+  "size": "100ml"
+},
+{
+  "_id": {
+    "$oid": "669ce40b6e282b058a8e3f30"
+  },
+  "name": "Tom Ford Oud Wood",
+  "image": "sp11.jpg",
+  "price": 6950000,
+  "description": "Hương chính: Trầm hương (Oud), Gỗ cẩm lai Brasil, Gỗ đàn hương, Bạch đậu khấu (Thảo quả), Vanilla, Tiêu Tứ Xuyên, Cỏ hương bài, Đậu Tonka, Nhựa Amber.\n\nTom Ford là một nhà thiết kế nổi tiếng, và đồng thời cũng để lại những di sản to lớn trong ngành nước hoa hiện đại. Sự thành công của Tom Ford trong làng nước hoa gắn liền với những mùi hương mạnh mẽ, nổi bật và có chiều sâu, đặc biệt là với Trầm hương (Oud). Tom Ford là người mang Oud đến gần hơn và trở nên phổ biến với nền nước hoa đại chúng, từ thời ông còn làm việc cho Yves Saint Laurent, với cái tên M7 huyền thoại. Trầm hương một lần nữa gây được tiếng tăm qua vài năm sau đó với Tom Ford Oud Wood, và lần này, nhà thiết kế người Mỹ đã mở ra một trào lưu mùi hương mới cho thế giới nước hoa.\n\nĐể có thể khiến cho “nhà nhà làm Oud, người người làm Oud”, kẻ dẫn đầu xu thế Oud Wood ắt hẳn phải ấn tượng và xuất sắc trong mắt giới mộ điệu tới nhường nào. Quả vậy, đây là một mùi hương Gỗ rất lạ, rất khác biệt cho tới tận bây giời. Oud Wood là một bản hòa phối uyển chuyển của các nốt hương Gỗ, nào Cẩm lai, Đàn hương hòa quyện lấy nhau, vừa mềm mại uyển chuyển lại cũng có sự dẻo dai, rắn chắc, và trên hết là chúng đem tới cho Trầm một gương mặt gần gũi mà khó nắm bắt. Trầm hương dĩ nhiên là nhân vật chính, nổi bật trong đám hương Gỗ bằng cái màu tối tăm huyền bí đặc trưng, không quá gầm gừ như những mùi trầm mạnh mẽ hiện nay, mà tiết chế để vừa đủ làm nổi bật những nét đặc trưng Á Đông của loại gỗ này. Gia vị được bổ sung để hoàn thiện cho màu sắc của Tom Ford, làm mùi hương Gỗ trầm tính trở nên sôi nổi và nhảy múa trong khứu giác của chúng ta, bằng một chút Vanilla, Tiêu, hay Nhựa hương ấm cúng.\n\nNếu xét trên thang điểm của sự nam tính, thì với rất nhiều người, Oud Wood gần như đạt điểm tối đa, và là mùi hương hoàn hảo cho một người đàn ông chín chắn, trưởng thành.",
+  "rating": 4.5,
+  "categoryId": "669cf8e86e282b058a8e3f46",
+  "size": "100ml"
+},
+{
+  "_id": {
+    "$oid": "669ce5516e282b058a8e3f31"
+  },
+  "name": "Kilian Angels' Share",
+  "image": "sp12.jpg",
+  "price": 5350000,
+  "description": "Hương đầu: Cognac\nHương giữa: Quế, Đậu tonka, Gỗ sồi\nHương cuối: Kẹo hạnh nhân, Vanilla, Đàn hương\n\nTựa như một cái hôn phớt giữa quán bar, Angel Share của nhà Kilian là tổng hợp những gì tội lỗi nhất, lãng mạn nhất và đương nhiên cũng ngọt ngào không kém.\n\nKhông phải tự dưng tôi phải lấy bối cảnh của một quán bar, mà chính Cognac ngay trong tầng hương đầu đầy mời gọi và đôi chút cám dỗ đã vẽ nên khung cảnh vồn vã, nhộn nhịp đó. Cảm giác khi say rượu thế nào thì cảm giác khi bạn “say\" Angel Share sau vài lần thử mùi cũng là điều dễ hiểu, vì không chỉ có Cognac, kẻ “đội lốt” này còn chưng cất những nồng cay đậm vị của Quế cùng Gỗ sồi, để rồi từ một cái chạm môi nhanh chóng câu chuyện được đẩy lên cao trào đến những mân mê da thịt đầy táo bạo.\n\nNhưng cảm xúc thường không có đúng sai, và suy cho cùng thì Angel Share cũng không hẳn là một gã tồi bởi đến cuối ngày, những dư vị ngọt ngào, đằm thắm vẫn xuất hiện qua mùi hương của Kẹo hạnh nhân và Vanilla. Như thể tất cả những mùi mẫn và béo ngậy ấy đã có thể khiến người ta nhanh chóng quên đi những “tội lỗi\" đêm hôm trước.",
+  "rating": 4.5,
+  "categoryId": "669cfa0f6e282b058a8e3f47",
+  "size": "50ml"
+}]
